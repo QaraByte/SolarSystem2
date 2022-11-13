@@ -12,4 +12,5 @@ $(document).ready(function () {
     $('.pb-3').append(earth);
     $(earth).offset({ top: solarTop - 70 });
     $(earth).offset({ left: solarLeft + 70 });
+
 });
